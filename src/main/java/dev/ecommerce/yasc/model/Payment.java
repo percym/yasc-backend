@@ -1,4 +1,4 @@
-package com.ecommerce.project.model;
+package dev.ecommerce.yasc.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

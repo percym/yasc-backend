@@ -1,4 +1,4 @@
-package com.ecommerce.project.payload;
+package dev.ecommerce.yasc.payload;
 
 import com.ecommerce.project.security.response.UserInfoResponse;
 import lombok.AllArgsConstructor;

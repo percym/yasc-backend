@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.user;
+package dev.ecommerce.yasc.model;
 
 public enum AppRole {
     ROLE_USER,

@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.user;
+package dev.ecommerce.yasc.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

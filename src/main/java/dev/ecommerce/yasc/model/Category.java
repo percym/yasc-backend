@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.category.model;
+package dev.ecommerce.yasc.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
