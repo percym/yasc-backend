@@ -1,5 +1,6 @@
-package com.ecommerce.project.model;
+package dev.ecommerce.yasc.product.model;
 
+import dev.ecommerce.yasc.category.model.Category;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
