@@ -1,10 +1,10 @@
 package dev.ecommerce.yasc.security;
 
-import com.ecommerce.project.model.AppRole;
-import com.ecommerce.project.model.Role;
-import com.ecommerce.project.model.User;
-import com.ecommerce.project.repositories.RoleRepository;
-import com.ecommerce.project.repositories.UserRepository;
+import dev.ecommerce.yasc.model.AppRole;
+import dev.ecommerce.yasc.model.Role;
+import dev.ecommerce.yasc.model.User;
+import dev.ecommerce.yasc.repositories.RoleRepository;
+import dev.ecommerce.yasc.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
@@ -26,9 +26,9 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-import com.ecommerce.project.security.jwt.AuthEntryPointJwt;
-import com.ecommerce.project.security.jwt.AuthTokenFilter;
-import com.ecommerce.project.security.services.UserDetailsServiceImpl;
+import dev.ecommerce.yasc.security.jwt.AuthEntryPointJwt;
+import dev.ecommerce.yasc.security.jwt.AuthTokenFilter;
+import dev.ecommerce.yasc.security.services.UserDetailsServiceImpl;
 
 import java.util.Set;
 

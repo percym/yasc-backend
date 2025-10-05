@@ -1,6 +1,6 @@
 package dev.ecommerce.yasc.security.jwt;
 
-import com.ecommerce.project.security.services.UserDetailsServiceImpl;
+import dev.ecommerce.yasc.security.services.UserDetailsServiceImpl;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

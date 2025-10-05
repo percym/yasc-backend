@@ -1,6 +1,6 @@
 package dev.ecommerce.yasc.security.jwt;
 
-import com.ecommerce.project.security.services.UserDetailsImpl;
+import dev.ecommerce.yasc.security.services.UserDetailsImpl;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;

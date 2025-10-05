@@ -1,6 +1,6 @@
 package dev.ecommerce.yasc.payload;
 
-import com.ecommerce.project.model.Address;
+import dev.ecommerce.yasc.model.Address;
 import lombok.Data;
 
 import java.util.Map;

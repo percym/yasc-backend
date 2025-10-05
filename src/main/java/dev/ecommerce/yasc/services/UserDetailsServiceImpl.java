@@ -9,8 +9,8 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.ecommerce.project.model.User;
-import com.ecommerce.project.repositories.UserRepository;
+import dev.ecommerce.yasc.model.User;
+import dev.ecommerce.yasc.repositories.UserRepository;
 
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {
