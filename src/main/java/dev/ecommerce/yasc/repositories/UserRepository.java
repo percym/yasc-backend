@@ -1,7 +1,7 @@
 package dev.ecommerce.yasc.repositories;
 
-import com.ecommerce.project.model.AppRole;
-import com.ecommerce.project.model.User;
+import dev.ecommerce.yasc.model.AppRole;
+import dev.ecommerce.yasc.model.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

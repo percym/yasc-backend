@@ -3,9 +3,9 @@ package dev.ecommerce.yasc.payload;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.ecommerce.project.model.Role;
+import dev.ecommerce.yasc.model.Role;
 
-import com.ecommerce.project.model.Role;
+import dev.ecommerce.yasc.model.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

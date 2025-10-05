@@ -1,7 +1,7 @@
 package dev.ecommerce.yasc.util;
 
-import com.ecommerce.project.model.User;
-import com.ecommerce.project.repositories.UserRepository;
+import dev.ecommerce.yasc.model.User;
+import dev.ecommerce.yasc.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
