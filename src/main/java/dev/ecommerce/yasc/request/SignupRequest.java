@@ -1,4 +1,4 @@
-package com.ecommerce.project.security.request;
+package dev.ecommerce.yasc.request;
 
 import java.util.Set;
 

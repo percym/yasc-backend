@@ -1,4 +1,4 @@
-package com.ecommerce.project.security.response;
+package dev.ecommerce.yasc.response;
 
 public class MessageResponse {
     private String message;

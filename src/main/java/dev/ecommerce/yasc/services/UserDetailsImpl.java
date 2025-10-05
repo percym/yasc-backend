@@ -1,4 +1,4 @@
-package com.ecommerce.project.security.services;
+package dev.ecommerce.yasc.services;
 
 import java.util.Collection;
 import java.util.List;
@@ -11,7 +11,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.ecommerce.project.model.User;
+import dev.ecommerce.yasc.model.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @NoArgsConstructor

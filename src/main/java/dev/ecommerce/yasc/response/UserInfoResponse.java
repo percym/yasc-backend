@@ -1,4 +1,4 @@
-package com.ecommerce.project.security.response;
+package dev.ecommerce.yasc.response;
 
 import java.util.List;
 

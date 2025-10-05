@@ -1,4 +1,4 @@
-package com.ecommerce.project.exceptions;
+package dev.ecommerce.yasc.exceptions;
 
 
 import com.ecommerce.project.payload.APIResponse;

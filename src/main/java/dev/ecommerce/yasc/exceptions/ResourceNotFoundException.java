@@ -1,4 +1,4 @@
-package com.ecommerce.project.exceptions;
+package dev.ecommerce.yasc.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
     String resourceName;
