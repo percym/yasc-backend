@@ -1,6 +1,5 @@
-package dev.ecommerce.yasc.services;
+package dev.ecommerce.yasc.service;
 
-import dev.ecommerce.yasc.model.Category;
 import dev.ecommerce.yasc.payload.CategoryDTO;
 import dev.ecommerce.yasc.payload.CategoryResponse;
 

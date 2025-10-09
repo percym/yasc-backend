@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.services;
+package dev.ecommerce.yasc.service;
 
 import dev.ecommerce.yasc.payload.ProductDTO;
 import dev.ecommerce.yasc.payload.ProductResponse;

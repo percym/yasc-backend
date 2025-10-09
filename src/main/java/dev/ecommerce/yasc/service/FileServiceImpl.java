@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.services;
+package dev.ecommerce.yasc.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

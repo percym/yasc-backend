@@ -1,4 +1,4 @@
-package dev.ecommerce.yasc.services;
+package dev.ecommerce.yasc.service;
 
 import dev.ecommerce.yasc.payload.CartDTO;
 import jakarta.transaction.Transactional;
