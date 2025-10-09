@@ -30,7 +30,7 @@ public class SwaggerConfig {
                         .title("Spring Boot eCommerce API")
                         .version("1.0")
                         .description("This is a Spring Boot Project for eCommerce")
-                        .license(new License().name("Our License Link").url("http://embarkx.com"))
+//                        .license(new License().name("Our License Link").url("http://embarkx.com"))
                         .contact(new Contact()
                                 .name("Faisal Memon")
                                 .email("faisal@embarkx.com")
